@@ -1,0 +1,23 @@
+{
+  "name": "particals",
+  "version": "1.0.0",
+  "description": "fully customizable and intractive partical background for react js. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "particals",
+    "partical",
+    "background",
+    "intractive",
+    "background",
+    "atom",
+    "background",
+    "react",
+    "js"
+  ],
+  "author": "yashwanth muddana",
+  "license": "ISC"
+}
